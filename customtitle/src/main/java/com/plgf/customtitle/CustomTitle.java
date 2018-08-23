@@ -115,11 +115,6 @@ public class CustomTitle extends RelativeLayout {
         super(context, attrs, defStyleAttr);
     }
 
-    public CustomTitle(Context context, AttributeSet attrs, int defStyleAttr, int defStyleRes) {
-        super(context, attrs, defStyleAttr, defStyleRes);
-    }
-
-
     //设置标题
     public void setTitle(String title) {
         this.title = title;
