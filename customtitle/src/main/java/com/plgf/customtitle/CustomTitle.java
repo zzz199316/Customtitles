@@ -177,6 +177,7 @@ public class CustomTitle extends RelativeLayout {
         this.onRightTvClickListen = onClickListen;
     }
 
+
     //右文字设置，如果设置右文字点击，必须设置右文字
     public void setRightTvText(String rightText){
         tv_right.setText(rightText);
