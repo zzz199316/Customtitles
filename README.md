@@ -10,7 +10,7 @@
   }
   
     dependencies {
-	        implementation 'com.github.zzz199316:Customtitles:v1.0.0'
+	        implementation 'com.github.zzz199316:Customtitles:v1.0.1'
 	  }
     
     2.使用
