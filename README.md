@@ -31,7 +31,7 @@
             支持左右点击事件，默认左点击事件为返回上一层
             
             
-         2.自定义baseactivity
+         2.自定义Customtitles
            支持6.0权限请求    public void check(String[] needPermissions);
            支持沉浸式状态栏    public void setStatusBarColor(int res);
            支持snackbar显示   public void showSnackBar(String message);
